@@ -6,16 +6,7 @@
 
 <h3 align="center"></a></h3>
 
-<p align="center">
-  <a href="https://github.com/jaiswaladi246">
-    <img src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&style=social" />
-  </a>
-  <a href="https://www.linkedin.com/in/roheelakhtar/">
-    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo=linkedin&style=flat-square" />
-  </a>
-</p>
-
-- 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/jaiswaladi246)  
+- 👨‍💻 All of my projects are available at [https://github.com/Reignz20](https://github.com/Reignz20)  
 - 💬 Ask me about ****  
 - 📫 How to reach me ****
 
