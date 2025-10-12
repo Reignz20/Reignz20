@@ -33,20 +33,21 @@
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40" alt="Next.js"/>
 
   <!-- DevOps / CI/CD -->
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" width="90" height="40" alt="GitHub Actions"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40" alt="GitHub"/>
-  <img src="https://www.vectorlogo.zone/logos/github_actions/github_actions-icon.svg" width="40" height="40" alt="GitHub Actions"/>
 
   <!-- Security / Scanning -->
-  <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/logo/trivy.png" width="40" height="40" alt="Trivy"/>
-  <img src="https://raw.githubusercontent.com/github/codeql-action/main/assets/codeql-icon.svg" width="40" height="40" alt="CodeQL"/>
+  <img src="https://img.shields.io/badge/Trivy-0E83CD?style=for-the-badge&logo=aqua&logoColor=white" width="90" height="40" alt="Trivy"/>
+  <img src="https://img.shields.io/badge/CodeQL-000000?style=for-the-badge&logo=github&logoColor=white" width="90" height="40" alt="CodeQL"/>
   <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" width="90" height="40" alt="Snyk"/>
   <img src="https://owasp.org/assets/images/logo.png" width="40" height="40" alt="OWASP"/>
 
   <!-- Infrastructure as Code -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform"/>
 </p>
+
 
 
 <p>
