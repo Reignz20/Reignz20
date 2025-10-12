@@ -6,7 +6,7 @@
 
 <h3 align="center"></a></h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Reignz20](https://github.com/Reignz20)  
+- 👨‍💻 All of my projects are available at [https://github.com/Reignz20?tab=repositories](https://github.com/Reignz20?tab=repositories)  
 
 ---
 
