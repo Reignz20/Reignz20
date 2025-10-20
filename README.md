@@ -37,11 +37,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40" alt="GitHub"/>
 
-  <!-- Security / Scanning -->
-  <img src="https://img.shields.io/badge/Trivy-0E83CD?style=for-the-badge&logo=aqua&logoColor=white" width="90" height="40" alt="Trivy"/>
-  <img src="https://img.shields.io/badge/CodeQL-000000?style=for-the-badge&logo=github&logoColor=white" width="90" height="40" alt="CodeQL"/>
-  <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" width="90" height="40" alt="Snyk"/>
-  <img src="https://owasp.org/assets/images/logo.png" width="40" height="40" alt="OWASP"/>
+<!-- Security / Scanning -->
+<img src="https://img.shields.io/badge/Trivy-0E83CD?style=for-the-badge&logo=aqua&logoColor=white" width="90" height="40" alt="Trivy"/>
+<img src="https://img.shields.io/badge/CodeQL-000000?style=for-the-badge&logo=github&logoColor=white" width="90" height="40" alt="CodeQL"/>
+<img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" width="90" height="40" alt="Snyk"/>
+<img src="https://img.shields.io/badge/SonarCloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white" width="120" height="40" alt="SonarCloud"/>
+<img src="https://owasp.org/assets/images/logo.png" width="40" height="40" alt="OWASP"/>
+
 
   <!-- Infrastructure as Code -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform"/>
